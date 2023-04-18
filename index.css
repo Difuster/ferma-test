@@ -40,7 +40,7 @@ body {
   position: relative;
   text-align: right;
   background: url("./assets/images/blue_ellipse.svg") top 151px left 223px no-repeat,
-    url("./assets/images/green_ellipse.svg") top 156px left 315px no-repeat,
+    url("./assets/images/green_ellipse.svg") top 156px left 305px no-repeat,
     url("./assets/images/pink_ellipse.svg") top 68px left 356px no-repeat;
 }
 
