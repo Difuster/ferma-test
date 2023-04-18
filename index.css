@@ -39,8 +39,8 @@ body {
   width: 733px;
   position: relative;
   text-align: right;
-  background: url("./assets/images/blue_ellipse.svg") top 151px left 223px no-repeat,
-    url("./assets/images/green_ellipse.svg") top 156px left 305px no-repeat,
+  background: url("./assets/images/blue_ellipse.svg") top 141px left 200px no-repeat,
+    url("./assets/images/green_ellipse.svg") top 156px left 295px no-repeat,
     url("./assets/images/pink_ellipse.svg") top 68px left 356px no-repeat;
 }
 
